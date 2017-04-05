@@ -1,7 +1,7 @@
 # AndroidAssignment
 task 3
 ## 主界面：
-![image](![image](https://github.com/LinBing43/SecondWork/blob/master/1.jpg)
+![image](https://github.com/LinBing43/AndroidAssignment/blob/master/1.jpg)
 ## Android ListView：imagetitleactivity
 ![image](https://github.com/LinBing43/AndroidAssignment/blob/master/2.jpg)
 ## toast显示：

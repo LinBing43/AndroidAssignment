@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AndroidAssignment</string>
+
+    <string name="image_title_activity">Image Title Activity</string>
+
+    <string name="alert_dialog_activity">Alert Dialog Activity</string>
+    <string name="show_dialog">Show Dialog</string>
+    <string name="username"> Username </string>
+    <string name="password"> Password </string>
+    <string name="login"> Login </string>
+    <string name="cancel"> Cancel </string>
+
+    <string name="menu_activity">Menu Activity</string>
+    <string name="menu_text_size"> 字体大小 </string>
+    <string name="menu_normal"> 普通菜单项 </string>
+    <string name="menu_text_color"> 字体颜色 </string>
+    <string name="menu_text_size_small"> 小 </string>
+    <string name="menu_text_size_normal"> 中 </string>
+    <string name="menu_text_size_big"> 大</string>
+    <string name="menu_text_color_red"> 红色 </string>
+    <string name="menu_text_color_black"> 黑色 </string>
+    <string name="menu_text_test"> 这是用于测试的内容 </string>
+
+
+    <string name="action_mode_activity">Action Mode Activity</string>
+    <string name="select_one">one selected</string>
+</resources>

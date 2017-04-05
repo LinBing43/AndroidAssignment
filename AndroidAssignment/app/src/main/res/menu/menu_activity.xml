@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/text_size"
+        android:title="@string/menu_text_size">
+        <menu>
+            <item
+                android:id="@+id/menu_text_size_small"
+                android:title="@string/menu_text_size_small">
+            </item>
+            <item
+                android:id="@+id/menu_text_size_normal"
+                android:title="@string/menu_text_size_normal">
+            </item>
+            <item
+                android:id="@+id/menu_text_size_big"
+                android:title="@string/menu_text_size_big">
+            </item>
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/menu_normal"
+        android:title="@string/menu_normal">
+    </item>
+    <item
+        android:id="@+id/text_color"
+        android:title="@string/menu_text_color">
+        <menu>
+            <item
+                android:id="@+id/menu_text_color_red"
+                android:title="@string/menu_text_color_red">
+            </item>
+            <item
+                android:id="@+id/menu_text_color_black"
+                android:title="@string/menu_text_color_black">
+            </item>
+        </menu>
+    </item>
+
+</menu>
